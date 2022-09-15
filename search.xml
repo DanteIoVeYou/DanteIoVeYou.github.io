@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>有机合成-3-碱性条件和酸性条件下C-C键的形成反应</title>
+      <link href="/2022/09/15/%E3%80%90%E6%9C%89%E6%9C%BA%E5%90%88%E6%88%90%E3%80%913.%E7%A2%B1%E6%80%A7%E6%9D%A1%E4%BB%B6%E5%92%8C%E9%85%B8%E6%80%A7%E6%9D%A1%E4%BB%B6%E4%B8%8BC-C%E9%94%AE%E7%9A%84%E5%BD%A2%E6%88%90%E5%8F%8D%E5%BA%94/"/>
+      <url>/2022/09/15/%E3%80%90%E6%9C%89%E6%9C%BA%E5%90%88%E6%88%90%E3%80%913.%E7%A2%B1%E6%80%A7%E6%9D%A1%E4%BB%B6%E5%92%8C%E9%85%B8%E6%80%A7%E6%9D%A1%E4%BB%B6%E4%B8%8BC-C%E9%94%AE%E7%9A%84%E5%BD%A2%E6%88%90%E5%8F%8D%E5%BA%94/</url>
+      
+        <content type="html"><![CDATA[<h1 id="碱性条件和酸性条件下C-C键的形成反应"><a href="#碱性条件和酸性条件下C-C键的形成反应" class="headerlink" title="碱性条件和酸性条件下C-C键的形成反应"></a>碱性条件和酸性条件下C-C键的形成反应</h1><p>常用</p><ul><li>叔丁氧基：碱性强，亲核性弱</li><li>二甲亚砜阴离子（溶于二甲亚砜）：强碱</li><li>LDA、LITMP、LHMDS（<strong>大位阻</strong>的<strong>二级胺</strong>的<strong>碱金属盐</strong>）：强碱、溶于非质子溶剂甚至烷烃、位阻大亲核性弱</li></ul><p>常用的碱性试剂与溶剂</p><ul><li>RONa/ROH溶液：RONa悬浮于惰性溶剂Et2O、苯、DME（乙二醇二甲醚）</li><li>Na、K、NaH悬浮于乙醚、DMF、DME</li><li>二甲亚砜钠溶于DMSO</li><li></li></ul><h2 id="C-形成的区域选择性"><a href="#C-形成的区域选择性" class="headerlink" title="C-形成的区域选择性"></a>C-形成的区域选择性</h2><blockquote><p>多数有机化合物不止有一处被活化的碳氢键</p></blockquote><h3 id="动力学控制：碱夺取质子的相对速率"><a href="#动力学控制：碱夺取质子的相对速率" class="headerlink" title="动力学控制：碱夺取质子的相对速率"></a>动力学控制：碱夺取质子的相对速率</h3><p>碳负离子在位阻较小、H活性较强处形成，因为反应速度快，H易被夺取</p><h3 id="热力学控制：相对稳定性"><a href="#热力学控制：相对稳定性" class="headerlink" title="热力学控制：相对稳定性"></a>热力学控制：相对稳定性</h3><p>碳负离子在位阻较大，取代基较多</p><p>eg：萘酚、α,β-不饱和醛酮</p><h3 id="如何控制区域选择性"><a href="#如何控制区域选择性" class="headerlink" title="如何控制区域选择性"></a>如何控制区域选择性</h3><p>动力学控制条件：强碱（LDA）、低温、无过量酮、非质子性溶剂（DMF、DME、DMSO、HMPA）</p><p>热力学控制条件：弱碱、过量酮、质子性溶剂</p><h2 id="碳负离子的反应、应用"><a href="#碳负离子的反应、应用" class="headerlink" title="碳负离子的反应、应用"></a>碳负离子的反应、应用</h2><h3 id="烷基化"><a href="#烷基化" class="headerlink" title="烷基化"></a>烷基化</h3><ol><li><h4 id="单官能团的烷基化"><a href="#单官能团的烷基化" class="headerlink" title="单官能团的烷基化"></a>单官能团的烷基化</h4><p>区域选择性</p><ul><li><p>碱性、温度、环状化合物大致为热力学控制</p></li><li><p>烯醇硅醚化[三甲基氯硅烷(TMSCl)]，基于硅氧有强的亲和度，可以分离动力学和热力学的中间体</p></li></ul></li><li><h4 id="双官能团的烷基化"><a href="#双官能团的烷基化" class="headerlink" title="双官能团的烷基化"></a>双官能团的烷基化</h4><p>β-二酮、β-酮酸酯、丙二酸酯，使用醇钠等不是很强的碱</p><p>双官能团其中一个对反应中心起活化作用，反应结束后可脱去，则该基团称活化基</p><p>双负离子：碳氢键必须有差异，用氨基阴离子以上的强碱，γ-烷基化</p></li><li><h4 id="碳负离子的两可反应性"><a href="#碳负离子的两可反应性" class="headerlink" title="碳负离子的两可反应性"></a>碳负离子的两可反应性</h4><blockquote><p>碳负离子、氧负离子均具有亲核性，所以烯醇负离子是两可亲核反应中心的活性中间体</p></blockquote><p>影响因素</p><ul><li>结构</li><li>烃化试剂：软硬酸碱理论</li><li>溶剂效应：HMPA（非质子溶剂）/t-BuOH（质子溶剂）</li></ul></li></ol><h3 id="酰基化"><a href="#酰基化" class="headerlink" title="酰基化"></a>酰基化</h3><ol><li><h4 id="Claisen缩合"><a href="#Claisen缩合" class="headerlink" title="Claisen缩合"></a>Claisen缩合</h4><p>${\ce{乙酸乙酯+Na珠-&gt;乙酰乙酸乙酯钠盐}}$</p></li><li><h4 id="交叉酯缩合"><a href="#交叉酯缩合" class="headerlink" title="交叉酯缩合"></a>交叉酯缩合</h4><p>控制加料方式：瓶里放无α-H的酯和碱，滴液漏斗里放有α-H的酯</p><p>草酸二乙酯：容易脱CO</p></li></ol><h1 id="课后问题"><a href="#课后问题" class="headerlink" title="课后问题"></a>课后问题</h1><p>制备丙二酸二乙酯衍生物是否能无脑用claisen酯缩合？？？提示：苯环</p><h1 id="参考词条"><a href="#参考词条" class="headerlink" title="参考词条"></a>参考词条</h1><ol><li>硅烯醇醚（<strong>Silyl enol ether</strong>），又称烯醇硅醚，是烯醇醚中氧原子上的基团为硅基取代形成的一类化合物。烯醇硅醚是烯醇的稳定形式，热稳定性较高，是有机合成中的重要中间体。</li><li>六甲基磷酰胺（<strong>HMPA</strong>）为无色液体，是一个常见的含磷非质子极性溶剂。</li><li>乙二醇二甲醚（<strong>DME</strong>），也称作1,2-二甲氧基乙烷，俗称“二甲基溶纤剂”。无色透明液体，略有乙醚气味，溶于水、乙醇、乙醚和氯仿。化学性质稳定，可用作硝酸纤维素、树脂、寡糖和多糖的溶剂。他的沸点高于乙醚和THF，所以常被用来当作那两种的替代品。另外它可以与双齿配体反应成螯合物，因此常被用在有机金属化学反应中，例如：格林纳试剂、还原氢化反应和铃木反应、施蒂勒反应等钯催化偶联反应。乙二醇二甲醚的间位交叉式是最低能量、最稳定的构象，而不是它的对位交叉式构象。</li><li>二甲基亚砜（<strong>DMSO</strong>），是分子式为(CH3)2SO的化学物质。其为一无色液体，并为重要的极性非质子溶剂。它可与许多有机溶剂及水互溶。二甲基亚砜具有极易渗透皮肤的特殊性质，造成使用人员感觉类似牡蛎或蒜头般的味道。</li><li>二甲基甲酰胺（<strong>DMF</strong>）是一种透明液体，能和水及大部分有机溶剂互溶。它是化学反应的常用溶剂。纯二甲基甲酰胺是没有气味的，但工业级或变质的二甲基甲酰胺则有鱼腥味，因其含有二甲基胺的不纯物。名称来源是由于它是甲酰胺（甲酸的酰胺）的二甲基取代物，而二个甲基都位于N（氮）原子上。二甲基甲酰胺是高沸点的极性(亲水性)非质子性溶剂，能促进SN2反应机构的进行。 二甲基甲酰胺是利用甲酸和二甲基胺制造的。二甲基甲酰胺在强碱如氢氧化钠或强酸如盐酸或硫酸的存在下是不稳定的（尤其在高温下），并水解为甲酸与二甲基胺。</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 有机合成 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>有机合成-1-绪论</title>
+      <link href="/2022/09/01/%E3%80%90%E6%9C%89%E6%9C%BA%E5%90%88%E6%88%90%E3%80%911.%E7%BB%AA%E8%AE%BA/"/>
+      <url>/2022/09/01/%E3%80%90%E6%9C%89%E6%9C%BA%E5%90%88%E6%88%90%E3%80%911.%E7%BB%AA%E8%AE%BA/</url>
+      
+        <content type="html"><![CDATA[<h1 id="绪论"><a href="#绪论" class="headerlink" title="绪论"></a>绪论</h1><p>色谱分离、现代波谱</p><p>Fischer 血红素</p><p>Robinson 托品酮</p><p>Woodward VB12</p><p>Merrifield 多肽固相合成</p><p>Corey 逆合成分析</p><h2 id="选择性"><a href="#选择性" class="headerlink" title="选择性"></a>选择性</h2><ul><li>化学选择性</li><li>区域选择性</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 有机合成 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Linux系统编程-4-浅谈C语言库函数和系统调用接口的关联</title>
       <link href="/2022/03/03/%E3%80%90Linux%E3%80%914.%E6%B5%85%E8%B0%88C%E8%AF%AD%E8%A8%80%E5%BA%93%E5%87%BD%E6%95%B0%E5%92%8C%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8%E6%8E%A5%E5%8F%A3%E7%9A%84%E5%85%B3%E8%81%94/"/>
       <url>/2022/03/03/%E3%80%90Linux%E3%80%914.%E6%B5%85%E8%B0%88C%E8%AF%AD%E8%A8%80%E5%BA%93%E5%87%BD%E6%95%B0%E5%92%8C%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8%E6%8E%A5%E5%8F%A3%E7%9A%84%E5%85%B3%E8%81%94/</url>
